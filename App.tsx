@@ -159,9 +159,16 @@ const App: React.FC = () => {
     { title: currentData.sectionTitles.honors, content: currentData.honors, isList: true }
   ];
 
-  const qrCodeImageUrl = 'https://lh3.googleusercontent.com/d/1vR9v4A-wGrp4U56AGxq-S-LiTPoDBKaz';
+  // 自動抓取目前的真實網址
+const [currentUrl, setCurrentUrl] = useState('');
 
-  return (
+useEffect(() => {
+  setCurrentUrl(window.location.href);
+}, []);
+
+// 呼叫 API 產生正確的 QR Code 圖片
+const qrCodeImageUrl = currentUrl ? `https://api.qrserver.com/v1/create-qr-code/?size=256x256&data=${encodeURIComponent(currentUrl)}` : '';
+return (
     <div className="min-h-screen bg-stone-100/50 flex items-center justify-center p-4 sm:p-6 lg:p-8">
       <main className="max-w-4xl w-full bg-white rounded-2xl shadow-xl overflow-hidden transition-all duration-300 relative">
         {/* QR Code Button */}
