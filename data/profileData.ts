@@ -129,8 +129,8 @@ export const profileData = {
                 title: '期刊 JOURNAL',
                 items: [
                     { zh: '陳靜君、陶振超（已接受）。〈結合AI自動化內容分析數位足跡與歷時性調查：2024臺灣總統大選民眾的中國新聞暴露與影響〉，《臺灣傳播學刊》。（TSSCI）' },
-                    { zh: '陳靜君、鄭中堂（2025）。〈紅色社群媒體來襲！中國數位威權主義的假訊息操弄如何影響臺灣Z世代〉，《臺灣傳播學刊》，47：111-149。（TSSCI）' },
                     { en: 'Chen, C.-C., & Tao, C.-C. (2026). Identity-driven news authentication strategy in echo chambers. <i>Journalism Practice, 20</i>(8), 2680–2695. https://doi.org/10.1080/17512786.2025.2464209（SSCI期刊）' },
+                    { zh: '陳靜君、鄭中堂（2025）。〈紅色社群媒體來襲！中國數位威權主義的假訊息操弄如何影響臺灣Z世代〉，《臺灣傳播學刊》，47：111-149。（TSSCI）' },
                     { zh: '孫復威、陳靜君（2023）。〈國防資訊來源對國防支持度與再傳播行為之影響〉，《東吳政治學報》，41(2)：189-235。https://www.airitilibrary.com/Article/Detail?DocID=10198636-N202403140003-00004（TSSCI）' },
                     { zh: '陳靜君、沈宏杰（2023）。〈社群編輯如何架構第四次臺海危機？從情緒─認知框架觀點出發〉，《傳播研究與實踐》，13(2)：73-110。（TSSCI）' },
                     { zh: '陳靜君（2023）。〈從調節焦點理論檢視人們面對即時通訊軟體政治不一致的回應策略〉，《資訊社會研究》，44：27-70。DOI: 10.29843/JCCIS.202301_(44).0002' },
@@ -214,8 +214,8 @@ export const profileData = {
                 title: 'JOURNAL',
                 items: [
                     { en: "Chen, C.-C., & Tao, C.-C. (Accepted). Combining AI-automated content analysis of digital footprints with longitudinal surveys: Taiwanese public exposure to and effects of Chinese news during the 2024 presidential election. <i>Taiwan Journal of Communication</i>. (TSSCI)" },
-                    { en: "Chen, C.-C., & Cheng C.-T. (2025). Red Social Media on the Rise! How China’s Digital Authoritarianism’s Manipulation of Disinformation Affects Taiwan’s Generation Z. *Taiwan Journal of Communication*, 47, 111-149. (TSSCI)" },
                     { en: 'Chen, C.-C., & Tao, C.-C. (2026). Identity-driven news authentication strategy in echo chambers. <i>Journalism Practice, 20</i>(8), 2680–2695. https://doi.org/10.1080/17512786.2025.2464209 (SSCI Journal)' },
+                    { en: "Chen, C.-C., & Cheng C.-T. (2025). Red Social Media on the Rise! How China’s Digital Authoritarianism’s Manipulation of Disinformation Affects Taiwan’s Generation Z. *Taiwan Journal of Communication*, 47, 111-149. (TSSCI)" },
                     { en: "Sun, F.-W., & Chen, C.-C. (2023). The Influence of National Defense Information Sources on Support for National Defense and Retransmission Behavior. *Soochow Journal of Political Science*, 41(2), 189-235. (TSSCI)" },
                     { en: "Chen, C.-C., & Shen, H.-C. (2023). How Do Social Media Editors Frame the Fourth Taiwan Strait Crisis? An Emotion-Cognition Framework Perspective. *Communication Research and Practice*, 13(2), 73-110. (TSSCI)" },
                     { en: "Chen, C.-C. (2023). Examining People's Response Strategies to Political Disagreement on Instant Messaging Apps from a Regulatory Focus Theory Perspective. *Journal of Cyber Culture and Information Society*, 44, 27-70." },
@@ -303,20 +303,20 @@ export const profileData = {
         zh: [
             '新聞學、媒體心理學、媒體實務課程（廣播電台、軍事新聞報導）、新聞傳播史、媒體素養、文化創意與傳播、傳播倫理與法規、軍隊公共事務、公共關係與危機傳播、資料科學與數位敘事、程式設計與應用、媒體經營管理、R語言資料分析與應用、軍事傳播與群眾行為、論文寫作',
             '2026 獲得遙控無人機專業操作證（Ia級）',
-            '2021 獲得國際高等教育教學認證HEA Fellowship（2020-2021參加培訓）',
-            '2023 獲得TKT劍橋英語教學知識認證Module 1、Module 2、Module 3（2023參加培訓）',
             '2025 獲得亞威AI智能商務應用學院修業證書',
             '2025 獲得ISO 17024 AI提示工程師證書（TW0005196）',
             '2025 獲得Gemini 認證教師證書（Gemini Certification for Educators）',
+            '2023 獲得TKT劍橋英語教學知識認證Module 1、Module 2、Module 3（2023參加培訓）',
+            '2021 獲得國際高等教育教學認證HEA Fellowship（2020-2021參加培訓）',
         ],
         en: [
             'Journalism, Media Psychology, Media Practice (Radio and Military News Reporting), History of Mass Communication, Media Literacy, Cultural and Creative Industries, Communication Ethics and Law, Military Public Affairs, Public Relations and Crisis Communication, Data Science and Digital Storytelling, Programming and Applications, Media Management, Data Analysis with R, Military Communication and Collective Behavior, Thesis Writing',
             '2026 Professional Remote Pilot Certificate (Ia)',
-            '2021 HEA Fellowship (International Higher Education Teaching Certification) (Training 2020-2021)',
-            '2023 TKT (Teaching Knowledge Test) Cambridge English Teaching Certification Modules 1, 2, 3 (Training 2023)',
             '2025 Certificate of Completion, YAYAV AI Intelligent Business Application Institute',
             '2025 ISO 17024 AI Prompt Engineer Certificate (TW0005196)',
             '2025 Gemini Certification for Educators',
+            '2023 TKT (Teaching Knowledge Test) Cambridge English Teaching Certification Modules 1, 2, 3 (Training 2023)',
+            '2021 HEA Fellowship (International Higher Education Teaching Certification) (Training 2020-2021)',
         ]
     },
     honors: {
