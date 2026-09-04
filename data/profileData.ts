@@ -128,8 +128,9 @@ export const profileData = {
             {
                 title: '期刊 JOURNAL',
                 items: [
+                    { zh: '陳靜君、陶振超（已接受）。〈結合AI自動化內容分析數位足跡與歷時性調查：2024臺灣總統大選民眾的中國新聞暴露與影響〉，《臺灣傳播學刊》。（TSSCI）' },
                     { zh: '陳靜君、鄭中堂（2025）。〈紅色社群媒體來襲！中國數位威權主義的假訊息操弄如何影響臺灣Z世代〉，《臺灣傳播學刊》，47：111-149。（TSSCI）' },
-                    { en: 'Chen, C.-C., & Tao, C.-C. (2025). Identity-Driven News Authentication Strategy in Echo Chambers. <i>Journalism Practice</i>. https://doi.org/10.1080/17512786.2025.2464209 (SSCI期刊 Q1)' },
+                    { en: 'Chen, C.-C., & Tao, C.-C. (2026). Identity-driven news authentication strategy in echo chambers. <i>Journalism Practice, 20</i>(8), 2680–2695. https://doi.org/10.1080/17512786.2025.2464209（SSCI期刊）' },
                     { zh: '孫復威、陳靜君（2023）。〈國防資訊來源對國防支持度與再傳播行為之影響〉，《東吳政治學報》，41(2)：189-235。https://www.airitilibrary.com/Article/Detail?DocID=10198636-N202403140003-00004（TSSCI）' },
                     { zh: '陳靜君、沈宏杰（2023）。〈社群編輯如何架構第四次臺海危機？從情緒─認知框架觀點出發〉，《傳播研究與實踐》，13(2)：73-110。（TSSCI）' },
                     { zh: '陳靜君（2023）。〈從調節焦點理論檢視人們面對即時通訊軟體政治不一致的回應策略〉，《資訊社會研究》，44：27-70。DOI: 10.29843/JCCIS.202301_(44).0002' },
@@ -142,6 +143,7 @@ export const profileData = {
             {
                 title: '個人專書及文章 BOOKS & BOOK CHAPTERS',
                 items: [
+                    { zh: '林士雄、陳靜君（2025）。〈義務役恢復一年期之政策溝通效果研究〉，謝奇任（編）《軍事新聞論壇第十三集》，頁1-31。台北市：國防大學政治作戰學院。ISBN：978-626-451-001-1' },
                     { zh: '鄭珈儀、陳靜君（2024）。〈網紅評估模型探討國軍網紅行銷之成效〉，孫懋嘉（編）《軍事新聞論壇第十二集》，頁31-73。台北市：國防大學政治作戰學院。ISBN：978-626-7423-40-0' },
                     { zh: '汪奕廷、陳靜君（2024）。〈生成式AI短影音形式的澄清訊息對不實訊息的澄清效果研究——以國防議題為例〉，茆家麒、董慧明（編）《國防安全新機遇：政治作戰與人工智慧的應用與展望》，頁96-124。台北市：國防大學政治作戰學院。ISBN：978-626-7423-41-7' },
                     { zh: '陳靜君、蔡明朗（2019）。〈真假難辨？運用語意網絡探討真、假謠言的認知圖像〉，劉大華（編）《新媒體時代下的軍事傳播與輿論戰》，頁45-58。台北市：國防大學。ISBN：9789865446178' },
@@ -177,6 +179,8 @@ export const profileData = {
             {
                 title: '網路文章 ONLINE ARTICLE',
                 items: [
+                    { zh: '陳靜君（2026年2月）。〈你的手機裡藏著「紅色干擾」嗎？從Z世代的社群日常，看穿來自中國的資訊操弄陷阱〉，《媒體素養教育資源網》。取自https://mlearn.moe.gov.tw/TopicArticle/PartData?key=11715' },
+                    { zh: '鄭中堂、陳靜君（2025年11月）。〈數位威權下的認知戰：預測編碼理論視角下的大陸用語與Z世代資訊辨識危機〉，《爆米花傳播學》。取自https://medium.com/@ccs.popcom/%E6%95%B8%E4%BD%8D%E5%A8%81%E6%AC%8A%E4%B8%8B%E7%9A%84%E8%AA%8D%E7%9F%A5%E6%88%B0-%E9%A0%90%E6%B8%AC%E7%B7%A8%E7%A2%BC%E7%90%86%E8%AB%96%E8%A6%96%E8%A7%92%E4%B8%8B%E7%9A%84%E5%A4%A7%E9%99%B8%E7%94%A8%E8%AA%9E%E8%88%87z%E4%B8%96%E4%BB%A3%E8%B3%87%E8%A8%8A%E8%BE%A8%E8%AD%98%E5%8D%B1%E6%A9%9F-7437d6ee3225' },
                     { zh: '陳靜君（2025年 6月）。〈不只是傳遞新聞：社群小編如何影響你對臺海危機的印象與情緒？〉，《媒體素養教育資源網》。取自https://mlearn.moe.gov.tw/TopicArticle/PartData?key=11593' },
                 ]
             },
@@ -185,6 +189,12 @@ export const profileData = {
                 items: [
                     { zh: '陳靜君（2022 年 11 月）。〈傳播調查資料庫展集第十六期：社群媒體使用大不同！從不同取徑檢視社群媒體的長期影響〉，《傳播調查資料庫》。取自https://crctaiwan.dcat.nycu.edu.tw/ResultsShow_detail2.asp?RS_ID=154' },
                     { zh: '陳靜君（2022 年 1 月）。〈傳播調查資料庫展集第十五期：網路與社群媒體使用如何促進政治參與？解析背後的心理機制與歷史因素〉，《傳播調查資料庫》。取自https://crctaiwan.dcat.nycu.edu.tw/ResultsShow_detail2.asp?RS_ID=143' },
+                ]
+            },
+            {
+                title: '學位論文 THESIS',
+                items: [
+                    { zh: '陳靜君（2011）。《體驗行銷運用於文化創意產業之效果研究－以電視劇「新兵日記」為例》。國防大學新聞研究所碩士論文（未出版）。' },
                 ]
             },
             {
@@ -203,8 +213,9 @@ export const profileData = {
             {
                 title: 'JOURNAL',
                 items: [
+                    { en: "Chen, C.-C., & Tao, C.-C. (Accepted). Combining AI-automated content analysis of digital footprints with longitudinal surveys: Taiwanese public exposure to and effects of Chinese news during the 2024 presidential election. <i>Taiwan Journal of Communication</i>. (TSSCI)" },
                     { en: "Chen, C.-C., & Cheng C.-T. (2025). Red Social Media on the Rise! How China’s Digital Authoritarianism’s Manipulation of Disinformation Affects Taiwan’s Generation Z. *Taiwan Journal of Communication*, 47, 111-149. (TSSCI)" },
-                    { en: 'Chen, C.-C., & Tao, C.-C. (2025). Identity-Driven News Authentication Strategy in Echo Chambers. <i>Journalism Practice</i>. https://doi.org/10.1080/17512786.2025.2464209 (SSCI Journal Q1)' },
+                    { en: 'Chen, C.-C., & Tao, C.-C. (2026). Identity-driven news authentication strategy in echo chambers. <i>Journalism Practice, 20</i>(8), 2680–2695. https://doi.org/10.1080/17512786.2025.2464209 (SSCI Journal)' },
                     { en: "Sun, F.-W., & Chen, C.-C. (2023). The Influence of National Defense Information Sources on Support for National Defense and Retransmission Behavior. *Soochow Journal of Political Science*, 41(2), 189-235. (TSSCI)" },
                     { en: "Chen, C.-C., & Shen, H.-C. (2023). How Do Social Media Editors Frame the Fourth Taiwan Strait Crisis? An Emotion-Cognition Framework Perspective. *Communication Research and Practice*, 13(2), 73-110. (TSSCI)" },
                     { en: "Chen, C.-C. (2023). Examining People's Response Strategies to Political Disagreement on Instant Messaging Apps from a Regulatory Focus Theory Perspective. *Journal of Cyber Culture and Information Society*, 44, 27-70." },
@@ -217,6 +228,7 @@ export const profileData = {
             {
                 title: 'BOOKS & BOOK CHAPTERS',
                 items: [
+                    { en: "Lin, S.-H., & Chen, C.-C. (2025). A study of the policy communication effects of restoring one-year compulsory military service. In C.-J. Hsieh (Ed.), <i>Military Journalism Forum Vol. 13</i> (pp. 1-31). Taipei: Fu Hsing Kang College, National Defense University. ISBN: 978-626-451-001-1" },
                     { en: "Cheng, C.-Y., & Chen, C.-C. (2024). A Study on the Effectiveness of the R.O.C. Armed Forces' Influencer Marketing Using an Influencer Evaluation Model. In S. Mao-Chia (Ed.), *Military Journalism Forum Vol. 12* (pp. 31-73). Taipei: Fu Hsing Kang College, National Defense University. ISBN: 978-626-7423-40-0" },
                     { en: "Wang, I.-T., & Chen, C.-C. (2024). A Study on the Clarification Effect of Generative AI Short Video Clarification Messages on Disinformation—Taking National Defense Issues as an Example. In M. Chia-Chi & T. Hui-Ming (Eds.), *New Opportunities for National Defense Security: Applications and Prospects of Political Warfare and Artificial Intelligence* (pp. 96-124). Taipei: Fu Hsing Kang College, National Defense University. ISBN: 978-626-7423-41-7" },
                     { en: "Chen, C.-C., & Tsai, M.-L. (2019). True or False? Using Semantic Network to Explore the Cognitive Images of True and False Rumors. In L. Ta-Hua (Ed.), *Military Communication and Public Opinion Warfare in the New Media Era* (pp. 45-58). Taipei: National Defense University. ISBN: 9789865446178" },
@@ -252,6 +264,8 @@ export const profileData = {
             {
                 title: 'ONLINE ARTICLE',
                 items: [
+                    { en: "Chen, C.-C. (February 2026). Is there 'red interference' hidden in your phone? Recognizing information manipulation from China through Generation Z's everyday social media use. <i>Media Literacy Education Resource Network</i>. Retrieved from https://mlearn.moe.gov.tw/TopicArticle/PartData?key=11715" },
+                    { en: "Cheng, C.-T., & Chen, C.-C. (November 2025). Cognitive warfare under digital authoritarianism: Mainland Chinese terminology and Generation Z's information-identification crisis from a predictive-coding perspective. <i>Popcom Communication</i>. Retrieved from https://medium.com/@ccs.popcom/%E6%95%B8%E4%BD%8D%E5%A8%81%E6%AC%8A%E4%B8%8B%E7%9A%84%E8%AA%8D%E7%9F%A5%E6%88%B0-%E9%A0%90%E6%B8%AC%E7%B7%A8%E7%A2%BC%E7%90%86%E8%AB%96%E8%A6%96%E8%A7%92%E4%B8%8B%E7%9A%84%E5%A4%A7%E9%99%B8%E7%94%A8%E8%AA%9E%E8%88%87z%E4%B8%96%E4%BB%A3%E8%B3%87%E8%A8%8A%E8%BE%A8%E8%AD%98%E5%8D%B1%E6%A9%9F-7437d6ee3225" },
                     { en: "Chen, C.-C. (June 2025). More Than Just Delivering News: How Social Media Editors Influence Your Impressions and Emotions about the Taiwan Strait Crisis? *Media Literacy Education Resource Network*. Retrieved from https://mlearn.moe.gov.tw/TopicArticle/PartData?key=11593" },
                 ]
             },
@@ -260,6 +274,12 @@ export const profileData = {
                 items: [
                     { en: "Chen, C.-C. (November 2022). Communication Research Database Collection Issue 16: Social Media Use is Vastly Different! Examining the Long-Term Effects of Social Media from Different Approaches. *Communication Research Database*. Retrieved from https://crctaiwan.dcat.nycu.edu.tw/ResultsShow_detail2.asp?RS_ID=154" },
                     { en: "Chen, C.-C. (January 2022). Communication Research Database Collection Issue 15: How Do Internet and Social Media Use Promote Political Participation? Analyzing the Underlying Psychological Mechanisms and Historical Factors. *Communication Research Database*. Retrieved from https://crctaiwan.dcat.nycu.edu.tw/ResultsShow_detail2.asp?RS_ID=143" },
+                ]
+            },
+            {
+                title: 'THESIS',
+                items: [
+                    { en: "Chen, C.-C. (2011). <i>The effects of experiential marketing in cultural and creative industries: A case study of the television drama Rookies' Diary</i>. Unpublished master's thesis, Graduate Institute of Journalism, National Defense University." },
                 ]
             },
             {
@@ -281,52 +301,56 @@ export const profileData = {
     },
     teaching: {
         zh: [
-            '新聞學、媒體心理學、媒體實務課程（廣播電台）、新聞傳播史、媒體素養、文化創意與傳播、傳播倫理與法規、軍隊公共事務、公共關係與危機處理、資料科學與數位敘事',
+            '新聞學、媒體心理學、媒體實務課程（廣播電台、軍事新聞報導）、新聞傳播史、媒體素養、文化創意與傳播、傳播倫理與法規、軍隊公共事務、公共關係與危機傳播、資料科學與數位敘事、程式設計與應用、媒體經營管理、R語言資料分析與應用、軍事傳播與群眾行為、論文寫作',
+            '2026 獲得遙控無人機專業操作證（Ia級）',
             '2021 獲得國際高等教育教學認證HEA Fellowship（2020-2021參加培訓）',
             '2023 獲得TKT劍橋英語教學知識認證Module 1、Module 2、Module 3（2023參加培訓）',
             '2025 獲得亞威AI智能商務應用學院修業證書',
-            '2025 獲得ISO17024 AI 導師 提示工程師證書（TW0005196）',
+            '2025 獲得ISO 17024 AI提示工程師證書（TW0005196）',
             '2025 獲得Gemini 認證教師證書（Gemini Certification for Educators）',
         ],
         en: [
-            'Journalism, Media Psychology, Media Practice (Radio), History of Mass Communication, Media Literacy, Cultural and Creative Industries, Communication Ethics and Law, Military Public Affairs, Public Relations and Crisis Management, Data Science and Digital Storytelling',
+            'Journalism, Media Psychology, Media Practice (Radio and Military News Reporting), History of Mass Communication, Media Literacy, Cultural and Creative Industries, Communication Ethics and Law, Military Public Affairs, Public Relations and Crisis Communication, Data Science and Digital Storytelling, Programming and Applications, Media Management, Data Analysis with R, Military Communication and Collective Behavior, Thesis Writing',
+            '2026 Professional Remote Pilot Certificate (Ia)',
             '2021 HEA Fellowship (International Higher Education Teaching Certification) (Training 2020-2021)',
             '2023 TKT (Teaching Knowledge Test) Cambridge English Teaching Certification Modules 1, 2, 3 (Training 2023)',
             '2025 Certificate of Completion, YAYAV AI Intelligent Business Application Institute',
-            '2025 ISO17024 AI Mentor Prompt Engineer Certificate (TW0005196)',
+            '2025 ISO 17024 AI Prompt Engineer Certificate (TW0005196)',
             '2025 Gemini Certification for Educators',
         ]
     },
     honors: {
         zh: [
+            '指導學生參加 2026國立教育廣播電台第23屆金聲獎 獲得音樂節目獎入圍',
+            '指導學生參加 2026臺灣經驗實證調查資料論文獎 獲得臺灣傳播資料庫首獎',
+            '指導學生參加 2026國立中正大學第23屆新傳獎 獲得最佳廣播新聞報導獎',
             '2024年獲得113年國防大學政治作戰學院院部優良教師',
             '2024年獲得113年國防大學政治作戰學院院部優良導師',
             '指導學生參加 2024第八屆全球華文永續報導獎 獲得音頻類入圍',
             '指導學生參加 2024國立中正大學第21屆新傳獎 獲得最佳廣播新聞報導獎',
-            '2023年獲得TKT劍橋英語教師證書Module 1、Module 2、Module 3',
             '指導學生參加 2023校園公關提案競賽 獲得佳作',
             '指導學生參加 2023國立中正大學第20屆新傳獎 獲得最佳廣播專題新聞獎',
             '指導學生參加 2022國立中正大學第19屆新傳獎 獲得最佳廣播新聞報導獎',
             '指導學生參加 2021國立教育廣播電台第18屆金聲獎 獲得音樂節目獎首獎',
             '指導學生參加 2021校園公關提案競賽 獲得佳作',
-            '2021年5月獲得國際高等教育專業認證 （HEA Fellowship）',
             '指導學生參加 2021國立中正大學第18屆新傳獎 獲得最佳廣播專題新聞獎入圍',
             '指導學生參加 2020國立教育廣播電台第17屆金聲獎 獲得媒體素養特別獎入圍',
             '指導學生參加 2020國立中正大學第17屆新傳獎 獲得最佳廣播專題新聞獎入圍',
             '指導學生參加 2019國立教育廣播電台第16屆金聲獎 獲得社會關懷節目獎入圍',
         ],
         en: [
+            'Mentored students to become finalists for the Music Program Award at the 23rd Golden Voice Awards, National Education Radio, 2026',
+            'Mentored students to win First Prize in the Taiwan Communication Survey category at the 2026 Taiwan Experience and Empirical Survey Data Paper Awards',
+            'Mentored students to win the Best Radio News Reporting Award at the 23rd Hsin Chuan Awards, National Chung Cheng University, 2026',
             '2024 Outstanding Teacher Award, Fu Hsing Kang College, National Defense University',
             '2024 Outstanding Mentor Award, Fu Hsing Kang College, National Defense University',
             'Mentored students to become finalists in the Audio category at the 8th Global Chinese Sustainable Reporting Awards 2024',
             'Mentored students to win the Best Radio News Reporting Award at the 21st Hsin Chuan Awards, National Chung Cheng University 2024',
-            '2023 TKT Cambridge English Teacher Certificates for Modules 1, 2, and 3',
             'Mentored students to win Honorable Mention at the 2023 Campus Public Relations Proposal Competition',
             'Mentored students to win the Best Radio Feature News Award at the 20th Hsin Chuan Awards, National Chung Cheng University 2023',
             'Mentored students to win the Best Radio News Reporting Award at the 19th Hsin Chuan Awards, National Chung Cheng University 2022',
             'Mentored students to win the First Prize for Music Program at the 18th Golden Bell Awards, National Education Radio 2021',
             'Mentored students to win Honorable Mention at the 2021 Campus Public Relations Proposal Competition',
-            'May 2021, Received HEA Fellowship (International Higher Education Professional Certification)',
             'Mentored students to become finalists for the Best Radio Feature News Award at the 18th Hsin Chuan Awards, National Chung Cheng University 2021',
             'Mentored students to become finalists for the Media Literacy Special Award at the 17th Golden Bell Awards, National Education Radio 2020',
             'Mentored students to become finalists for the Best Radio Feature News Award at the 17th Hsin Chuan Awards, National Chung Cheng University 2020',
